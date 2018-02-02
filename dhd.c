@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<conio.h>
 int main()
 {
     int n=11, i, flag = 0;
