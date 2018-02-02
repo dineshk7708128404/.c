@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include<conio.h>
+#include<math.h>
 int main()
 {
     int n=121, reversedInteger = 0, remainder, originalInteger;
